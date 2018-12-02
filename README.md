@@ -7,8 +7,8 @@
 > **Note:** 所有排序算法实现完成后，会进行测评从而寻找“最优”。
 
 ## 编译及运行方式：
-$ `cd sort`
-$ `mkdir output`
-$ `javac -d output *.java`
-$ `cd output`
-$ `java pers.wady.sort.Main`
+$ `cd sort`<br/>
+$ `mkdir output`<br/>
+$ `javac -d output *.java`<br/>
+$ `cd output`<br/>
+$ `java pers.wady.sort.Main`<br/>
